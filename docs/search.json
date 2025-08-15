@@ -7,11 +7,11 @@
     "text": "Welcome to my website!"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "Projects/Project_1/index.html",
+    "href": "Projects/Project_1/index.html",
+    "title": "First",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Place first content here"
   },
   {
     "objectID": "Resume.html",
@@ -26,13 +26,6 @@
     "title": "Second",
     "section": "",
     "text": "Place second content here"
-  },
-  {
-    "objectID": "Projects/Project_1/index.html",
-    "href": "Projects/Project_1/index.html",
-    "title": "First",
-    "section": "",
-    "text": "Place first content here"
   },
   {
     "objectID": "Projects.html",
